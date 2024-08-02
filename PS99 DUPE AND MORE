@@ -228,11 +228,11 @@ Tab:AddParagraph("(🗣️)-Discord Server","Join my discord server report bugs�
 Tab:AddButton({
 	Name = "Copy Link To Discord Server 🎯",
 	Callback = function()
-	setclipboard("https://discord.com/invite/ZQbaTKNsRy")
+	setclipboard("https://discord.gg/WZ48S5tu2E")
       		print("button pressed")
   	end    
 })
-Tab:AddParagraph("Credits","All Coded And Developed By HiddenScriptsHubYT")
+Tab:AddParagraph("Credits","All Coded And Developed By ZeekuScripts")
 Tab:AddParagraph("Note❗","Script is Undetectable u will not get banned by using this")
 --[[
 Name = <string> - The name of the tab.
